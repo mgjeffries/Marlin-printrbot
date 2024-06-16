@@ -1,3 +1,20 @@
+# This is a fork of the popular Marlin 3D Printer firmware.
+
+Target printer: Printrbot simple metal (150mm cube) with heated bed
+
+Many thanks to JDWallace for providing instruction: https://www.jdwallace.com/post/printrbot-simple-metal-marlin2
+
+and config: https://github.com/jdwallace/3d-printing
+
+Changes/Differences:
+* Set the print volume to 150mm cube
+* Included the full Marlin code base (Branched from Marlin 2.0.X-bugfix)
+* Updated the configuration files to fix errors in the build
+
+
+Marlin readme follows:
+
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
